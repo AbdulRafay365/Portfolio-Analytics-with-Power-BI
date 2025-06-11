@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a financial and sales analysis of a product portfolio across different regions and customer segments, using Microsoft's Power BI. The dataset used is the **Financials Sample Dataset** provided by Microsoft, representing fictional sales data between 2013 and 2014.
+I started this project to compliment my SAP Portfolio Analyst Intern Job Application. This project presents a financial and sales analysis of a product portfolio across different regions and customer segments, using Microsoft's Power BI. The dataset used is the **Financials Sample Dataset** provided by Microsoft, representing fictional sales data between 2013 and 2014.
 
 ## Dashboard Preview
 
