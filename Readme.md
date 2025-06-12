@@ -60,7 +60,7 @@ I started this project to compliment my SAP Portfolio Analyst Intern Job Applica
 
 - Sales peak during mid-year months indicating seasonal buying trends.
 - Certain products consistently outperform others across both sales and profit.
-- Government and Midmarket segments showed strong, stable returns.
+- Government and Small Business segments showed strong, stable returns.
 - Discounts had a notable impact on gross-to-net sales margins.
 
 ## 💡 Future Enhancements
