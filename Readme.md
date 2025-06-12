@@ -58,16 +58,9 @@ I started this project to compliment my SAP Portfolio Analyst Intern Job Applica
 
 ## 📌 Insights Gained
 
-- Sales peak during mid-year months indicating seasonal buying trends.
-- Certain products consistently outperform others across both sales and profit.
+- Sales peak during end-of-year months indicating seasonal buying trends.
+- Product named "Paesso" consistently outperforms others across both sales and profit.
 - Government and Small Business segments showed strong, stable returns.
-- Discounts had a notable impact on gross-to-net sales margins.
-
-## 💡 Future Enhancements
-
-- Add predictive modeling for next-quarter sales.
-- Drillthrough pages for regional managers or product leads.
-- Integrate SAP data connectors for live dashboards.
 
 ## 📂 Dataset
 
